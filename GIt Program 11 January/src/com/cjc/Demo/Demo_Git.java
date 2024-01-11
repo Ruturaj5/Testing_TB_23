@@ -3,33 +3,33 @@ package com.cjc.Demo;
 public class Demo_Git 
 {
 
-	
+	//Ek project ha ekdach share karu sgakto dar veles commit ha ekach option rahil
 	public void m1() 
 	{
-		System.out.println("Hello Git M1 Check");
+		System.out.println("Hello Git M1 Checkk");
 	}
 	
 	public void m2() 
 	{
-		System.out.println("Hello Git M2 Check");	
+		System.out.println("Hello Git M2 Checkk");	
 	}
 	
 	
 	public void m3() 
 	{
-		System.out.println("Hello Git M3 Check");
+		System.out.println("Hello Git M3 Checkk");
 	}
 	
 	
 	public void m4() 
 	{
-		System.out.println("Hello Git M4 Check");
+		System.out.println("Hello Git M4 Checkk");
 	}
 	
 	
 	public void m5() 
 	{
-		System.out.println("Hello Git M5 Check");
+		System.out.println("Hello Git M5 Checkk");
 	}
 	
 	
